@@ -1,5 +1,5 @@
 # Todo_list
-It is just a front end of the a simple website, which stores our day to day life.
+It is just a frontend of the a simple website, which stores our day to day life.
 # Negetive points
 The data will not store any database
 
